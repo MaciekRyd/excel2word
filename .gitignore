@@ -1,0 +1,14 @@
+# Ignoruj pliki tymczasowe
+*.log
+*.tmp
+
+# Ignoruj foldery systemowe
+__pycache__/
+.DS_Store
+
+# Ignoruj środowisko wirtualne Pythona
+venv/
+
+# Ignoruj pliki konfiguracyjne IDE
+.vscode/
+.idea/
